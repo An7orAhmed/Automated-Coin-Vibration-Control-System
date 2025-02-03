@@ -1,4 +1,4 @@
-# 42: Automated Coin Vibration Control System
+# Automated Coin Vibration Control System
 
 ## Description  
 This project implements a vibration control system using ultrasonic sensors to detect proximity and trigger coin-sized vibration modules. Designed for Arduino-compatible boards, it dynamically adjusts activation thresholds for two independent channels based on analog input values. The system reads distance data from HC-SR04 ultrasonic sensors (via the NewPing library) and controls vibration motors when objects exceed user-defined range limits.
